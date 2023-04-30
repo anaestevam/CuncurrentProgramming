@@ -1,0 +1,10 @@
+A.in = 189ms
+B.in = 198ms
+C.in = 195ms
+D.in = 214ms
+E.in
+F.in
+G.in
+H.in
+I.in
+J.in

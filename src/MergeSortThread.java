@@ -65,8 +65,8 @@ public class MergeSortThread {
     }
     
     public static void main(String[] args) {
-        String inputFile = "input/A.in";
-        String outputFile = "output/saida_a.out";
+        String inputFile = "input/E.in";
+        String outputFile = "output/saida_e.out";
         try {
             Scanner scanner = new Scanner(new File(inputFile));
             String[] tokens = scanner.nextLine().split(" ");

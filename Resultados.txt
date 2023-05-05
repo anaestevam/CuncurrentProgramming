@@ -16,11 +16,11 @@ A.in = 1ms  => Sequencial_a.out
 B.in = 1ms  => Sequencial_b.out
 C.in = 2ms  => Sequencial_c.out
 D.in = 3ms  => Sequencial_d.out
-E.in = 4ms  => Sequencial_e.out
-F.in = 10ms => Sequencial_e.out
-G.in = 14ms => Sequencial_e.out
-H.in = 22ms => Sequencial_e.out
-I.in = 38ms => Sequencial_e.out
+E.in = 10ms  => Sequencial_e.out
+F.in = 20ms => Sequencial_e.out
+G.in = 24ms => Sequencial_e.out
+H.in = 32ms => Sequencial_e.out
+I.in = 48ms => Sequencial_e.out
 J.in = 59ms  => Sequencial_e.out
 
 ----- Teste 2 -----

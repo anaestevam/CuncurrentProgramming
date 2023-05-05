@@ -1,10 +1,23 @@
-A.in = 206ms
-B.in = 412ms
-C.in = 1081ms
-D.in = 3074ms
-E.in = 9815ms
-F.in
-G.in
-H.in
-I.in
-J.in
+----10 Threads----
+A.in = 2ms  => Thread_a.out
+B.in = 2ms  => Thread_b.out
+C.in = 3ms  => Thread_c.out
+D.in = 4ms  => Thread_d.out
+E.in = 9ms  => Thread_e.out
+F.in = 17ms => Thread_f.out
+G.in = 18ms => Thread_g.out
+H.in = 20ms => Thread_h.out
+I.in = 44ms => Thread_i.out
+J.in = 53ms => Thread_j.out
+
+----Sequencial----
+A.in = 1ms  => Sequencial_a.out
+B.in = 1ms  => Sequencial_b.out
+C.in = 2ms  => Sequencial_c.out
+D.in = 3ms  => Sequencial_d.out
+E.in = 4ms  => Sequencial_e.out
+F.in = 10ms => Sequencial_e.out
+G.in = 14ms => Sequencial_e.out
+H.in = 22ms => Sequencial_e.out
+I.in = 38ms => Sequencial_e.out
+J.in = 59ms  => Sequencial_e.out

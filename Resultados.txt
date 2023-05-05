@@ -1,3 +1,4 @@
+----- Teste 1 -----
 ----10 Threads----
 A.in = 2ms  => Thread_a.out
 B.in = 2ms  => Thread_b.out
@@ -21,3 +22,28 @@ G.in = 14ms => Sequencial_e.out
 H.in = 22ms => Sequencial_e.out
 I.in = 38ms => Sequencial_e.out
 J.in = 59ms  => Sequencial_e.out
+
+----- Teste 2 -----
+----15 Threads----
+A.in = 18ms  => Thread_a.out
+B.in = 13ms  => Thread_b.out
+C.in = 15ms  => Thread_c.out
+D.in = 28ms  => Thread_d.out
+E.in = 123ms  => Thread_e.out
+F.in = 54ms => Thread_f.out
+G.in = 57ms => Thread_g.out
+H.in = 80ms => Thread_h.out
+I.in = 105ms => Thread_i.out
+J.in = 109ms => Thread_j.out
+
+----Sequencial----
+A.in = 2ms  => Sequencial_a.out
+B.in = 6ms  => Sequencial_b.out
+C.in = 4ms  => Sequencial_c.out
+D.in = 5ms  => Sequencial_d.out
+E.in = 9ms  => Sequencial_e.out
+F.in = 16ms => Sequencial_e.out
+G.in = 35ms => Sequencial_e.out
+H.in = 57ms => Sequencial_e.out
+I.in = 102ms => Sequencial_e.out
+J.in = 117ms  => Sequencial_e.out
